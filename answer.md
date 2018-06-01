@@ -1,5 +1,5 @@
 ## Q1. 得意なプログラミング言語 Favorite Programming Language
-Ruby, Python
+Ruby, Python, Scheme
 
 ## Q2. コードの説明 Code Explanation
 あなたのコードがどのように動作するのか、簡潔に説明してください。
